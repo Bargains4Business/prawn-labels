@@ -4,6 +4,26 @@
 #
 
 # Avery 7160 family: Mailing labels, 63.5 x 38.1 mm, 21 per sheet
+Avery6577:
+    paper_size: LETTER
+    top_margin: 36
+    bottom_margin: 36
+    left_margin: 62
+    right_margin: 62
+    columns: 2
+    rows: 16
+    column_gutter: 62
+    row_gutter: 0
+Avery5162:
+    paper_size: LETTER
+    top_margin: 60
+    bottom_margin: 60
+    left_margin: 13
+    right_margin: 13
+    columns: 2
+    rows: 7
+    column_gutter: 16
+    row_gutter: 0
 Avery7160:
     paper_size: A4
     top_margin: 43.9

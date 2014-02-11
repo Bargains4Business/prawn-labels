@@ -77,3 +77,14 @@ Avery6871:
     rows: 6
     column_gutter: 22.6
     row_gutter: 18.4
+# OnlineLabels OL28 family
+OL28:
+    paper_size: LETTER
+    top_margin: 36
+    bottom_margin: 36
+    left_margin: 28.98
+    right_margin: 28.98
+    columns: 9
+    rows: 10
+    column_gutter: 8.5
+    row_gutter: 0
